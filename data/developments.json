@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Manhattan Tower",
+    "copy": {
+      "en": {
+        "name": "Manhattan Tower",
+        "location": "Palermo, CABA",
+        "rentability": "30%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Long Term (+5 years)"
+      }
+    },
+    "type": "residential",
+    "target": "long_term_value",
+    "term": "60",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture1.png",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "250",
+    "maxSupply": "1000",
+    "maxMintAmount": "15"
+  },
+  {
+    "name": "Mendoza Tower",
+    "copy": {
+      "en": {
+        "name": "Mendoza Tower",
+        "location": "Palermo, CABA",
+        "rentability": "30%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Long Term (+5 years)"
+      }
+    },
+    "type": "residential",
+    "target": "long_term_value",
+    "term": "60",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture2.png",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "250",
+    "maxSupply": "1000",
+    "maxMintAmount": "15"
+  },
+  {
+    "name": "Skyscraper Residence",
+    "copy": {
+      "en": {
+        "name": "Skyscraper Residence",
+        "location": "Downtown, CABA",
+        "rentability": "20%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Short Term (1-3 years)"
+      }
+    },
+    "type": "mixed",
+    "target": "long_term_value",
+    "term": "30",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture3.png",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "150",
+    "maxSupply": "800",
+    "maxMintAmount": "10"
+  },
+  {
+    "name": "Metropolis Plaza",
+    "copy": {
+      "en": {
+        "name": "Metropolis Plaza",
+        "location": "Recoleta, CABA",
+        "rentability": "50%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Mid Term (3-5 years)"
+      }
+    },
+    "type": "commercial",
+    "target": "long_term_value",
+    "term": "45",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture4.png",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "300",
+    "maxSupply": "2000",
+    "maxMintAmount": "20"
+  },
+  {
+    "name": "Harmony Tower",
+    "copy": {
+      "en": {
+        "name": "Harmony Tower",
+        "location": "Belgrano, CABA",
+        "rentability": "40%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Long Term (+5 years)"
+      }
+    },
+    "type": "offices",
+    "target": "long_term_value",
+    "term": "80",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture5.png",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "500",
+    "maxSupply": "1500",
+    "maxMintAmount": "30"
+  },
+  {
+    "name": "Riverside Heights",
+    "copy": {
+      "en": {
+        "name": "Riverside Heights",
+        "location": "Puerto Madero, CABA",
+        "rentability": "35%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Mid Term (3-5 years)"
+      }
+    },
+    "type": "residential",
+    "target": "long_term_value",
+    "term": "40",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture6.jpeg",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "275",
+    "maxSupply": "1200",
+    "maxMintAmount": "12"
+  },
+  {
+    "name": "Harbor View",
+    "copy": {
+      "en": {
+        "name": "Harbor View",
+        "location": "Puerto Madero, CABA",
+        "rentability": "25%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Short Term (1-3 years)"
+      }
+    },
+    "type": "mixed",
+    "target": "long_term_value",
+    "term": "20",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture7.jpeg",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "200",
+    "maxSupply": "900",
+    "maxMintAmount": "9"
+  },
+  {
+    "name": "Central Plaza",
+    "copy": {
+      "en": {
+        "name": "Central Plaza",
+        "location": "Retiro, CABA",
+        "rentability": "50%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Long Term (+5 years)"
+      }
+    },
+    "type": "commercial",
+    "target": "long_term_value",
+    "term": "70",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture8.jpeg",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "400",
+    "maxSupply": "2500",
+    "maxMintAmount": "25"
+  },
+  {
+    "name": "Sunset Residences",
+    "copy": {
+      "en": {
+        "name": "Sunset Residences",
+        "location": "Belgrano, CABA",
+        "rentability": "45%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Short Term (1-3 years)"
+      }
+    },
+    "type": "residential",
+    "target": "long_term_value",
+    "term": "25",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture9.jpeg",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "350",
+    "maxSupply": "1500",
+    "maxMintAmount": "15"
+  },
+  {
+    "name": "Cityscape Towers",
+    "copy": {
+      "en": {
+        "name": "Cityscape Towers",
+        "location": "Recoleta, CABA",
+        "rentability": "20%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Mid Term (3-5 years)"
+      }
+    },
+    "type": "offices",
+    "target": "long_term_value",
+    "term": "50",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture10.jpeg",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "300",
+    "maxSupply": "1800",
+    "maxMintAmount": "18"
+  },
+  {
+    "name": "Harmony Plaza",
+    "copy": {
+      "en": {
+        "name": "Harmony Plaza",
+        "location": "Puerto Madero, CABA",
+        "rentability": "30%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Short Term (1-3 years)"
+      }
+    },
+    "type": "commercial",
+    "target": "long_term_value",
+    "term": "30",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture11.jpeg",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "250",
+    "maxSupply": "1000",
+    "maxMintAmount": "10"
+  },
+  {
+    "name": "Sapphire Towers",
+    "copy": {
+      "en": {
+        "name": "Sapphire Towers",
+        "location": "Retiro, CABA",
+        "rentability": "50%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Mid Term (3-5 years)"
+      }
+    },
+    "type": "offices",
+    "target": "long_term_value",
+    "term": "60",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture12.jpeg",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "350",
+    "maxSupply": "2000",
+    "maxMintAmount": "20"
+  },
+  {
+    "name": "Emerald Residences",
+    "copy": {
+      "en": {
+        "name": "Emerald Residences",
+        "location": "Belgrano, CABA",
+        "rentability": "40%",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc",
+        "term": "Long Term (+5 years)"
+      }
+    },
+    "type": "residential",
+    "target": "long_term_value",
+    "term": "70",
+    "metadataURI": "https://ipfs.io/ipfs/QmX1gTcoQJ4SSg74CLUUpC3hW94EPsPB5zFbynJkGM3tVd",
+    "imageUrl": "/images/picture13.jpeg",
+    "tokens": [
+      {
+        "name": "USDT",
+        "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+        "priceFactor": "1"
+      }
+    ],
+    "tokenPrice": "400",
+    "maxSupply": "2500",
+    "maxMintAmount": "25"
+  }
+]
