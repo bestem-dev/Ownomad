@@ -9,6 +9,7 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <script async src="/chat.js"></script>
       </body>
     </Html>
   );
